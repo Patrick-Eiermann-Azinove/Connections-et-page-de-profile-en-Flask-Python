@@ -3,7 +3,7 @@
 
 ## To do
 
-- Create 2 connection pages
+- Create a login page and a profile page
 - Create a docker container whit mangoDB 
 - Create a connection page whit and connect it to docker (Password don't need to be Crypted)
 - Display profile information like Name, Email and Phone number.
